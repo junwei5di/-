@@ -17,4 +17,5 @@ int main(int argc, const char * argv[])
     }else{
         printf("%d年是平年\n",i);
     }
+    return 0;
 }
